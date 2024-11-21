@@ -1,0 +1,18 @@
+{
+  "Rules": [
+    {
+      "SettingName": "state",
+      "Operator": "IsEquals",
+      "DataType": "String",
+      "Operand": "Compliant",
+      "MoreInfoUrl": "https://support.microsoft.com/en-gb/windows/restart-reboot-your-pc-110262aa-fc79-1c33-7b00-c140ae3a6dac#",
+      "RemediationStrings": [
+        {
+          "Language": "en_US",
+          "Title": "Device Restart Required",
+          "Description": "Your device hasn't been restarted in over 7 days. Please restart your device to maintain compliance and ensure optimal performance."
+        }
+      ]
+    }
+  ]
+}
