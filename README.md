@@ -4,7 +4,7 @@ Description: This repository provides an Intune compliance policy to ensure devi
 
 Key Features:
 
-Easy to Deploy: Simply import the provided XML file into your Intune environment.
+Easy to Deploy: Simply import the provided Script and json file into your Intune environment.
 Customizable: Adjust the restart frequency (7 days by default) to meet your specific needs.
 Clear Reporting: Easily identify non-compliant devices in the Intune portal.
 
